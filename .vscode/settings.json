@@ -1,0 +1,10 @@
+{
+  "editor.insertSpaces": false,
+  "prettier.useTabs": true,
+  "prettier.tabWidth": 4,
+  "editor.tabSize": 4,
+"editor.detectIndentation": false,
+"python.formatting.autopep8Args": [
+	"--ignore=W191,E101,E111"
+]
+}
